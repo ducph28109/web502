@@ -1,0 +1,69 @@
+
+.left img {
+  width: 100%;
+  height: auto;
+}
+.right {
+  margin-top: 6em;
+  margin-left: 4.5em;
+}
+.right h1 {
+  text-align: center;
+  margin-right: 4.5em;
+  margin-bottom: 2.5em;
+  margin-left: 1.5em;
+}
+.right input {
+  margin-top: 0.5em;
+  margin-bottom: 2.5em;
+
+  width: 80%;
+}
+.right label {
+  margin-right: 95%;
+}
+.btn-login {
+  margin-left: -6em;
+}
+
+.left-signUp img {
+  width: 100%;
+  height: 45em;
+}
+.right-signUp {
+  margin-left: 4.5em;
+}
+.right-signUp h1 {
+  text-align: center;
+  margin-right: 4.5em;
+  margin-bottom: 1.5em;
+}
+.right-signUp input {
+  margin-top: 0.5em;
+  margin-bottom: 2.5em;
+  width: 80%;
+}
+.right-signUp label {
+  margin-right: 95%;
+}
+.btn-signUp {
+  margin-left: -6em;
+}
+.prd-img img {
+  width: 100px;
+}
+.table {
+  text-align: center;
+  margin-top: 1em;
+}
+.btn-success {
+  margin-top: 1em;
+  margin-left: 0.5em;
+}
+.btn-success a {
+  text-decoration: none;
+  color: white;
+}
+
+
+
